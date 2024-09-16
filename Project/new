@@ -1,0 +1,254 @@
+ <div class="grids">
+                <div class="grid_one">
+                    <div id="pic_one">
+                        <div id="grid_text">
+                            <p>Branding & Illustration Design
+                        </p></div>
+                       <div id="small_text">
+                        <p>WEB DESIGN</p>
+                       </div>
+                    </div>
+                    <div id="pic_two">
+                        
+                        <div id="grid_text">
+                            <p>Branding & Illustration Design
+                        </p></div>
+                        <p id="small_text">WEB DESIGN</p>
+                    </div>
+                </div>
+                <div class="grid_two">
+                    
+                    <div id="pic_three">
+                        
+                        <div id="grid_text">
+                            <p>Branding & Illustration Design
+                        </p></div>
+                        <p id="small_text">WEB DESIGN</p>
+                    </div>
+                    <div id="pic_four">
+                        
+                        <div id="grid_text">
+                            <p>Branding & Illustration Design
+                        </p></div>
+                        <p id="small_text">WEB DESIGN</p>
+                    </div>
+                </div>
+                <div class="grid_three">
+                    
+                    <div id="pic_five">
+                        
+                        <div id="grid_text">
+                            <p>Branding & Illustration Design
+                        </p></div>
+                        <p id="small_text">WEB DESIGN</p>
+                    </div>
+                    <div id="pic_six">
+                        
+                        
+                </div>
+                
+            </div>
+
+
+
+
+
+
+            #grid_A{
+
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section>
+
+<div class="portfolio">
+    <h6 id="heading"> PORTFOLIO</h6>
+    <h2 id="sub_heading">
+        My Latest Work
+    </h2>
+    <div class="grids">
+        <div id="grid_A">
+            <div class="gird_1">
+                <div id="grid_text">
+                    <p>Branding & Illustration Design
+                </p></div>
+                <p id="small_text">WEB DESIGN</p>
+            </div>
+            </div>
+            <div class="gird_2">
+                <div id="grid_text">
+                    <p>Branding & Illustration Design
+                </p></div>
+                <p id="small_text">WEB DESIGN</p>
+            </div>
+            </div>
+            <div class="gird_3">
+                <div id="grid_text">
+                    <p>Branding & Illustration Design
+                </p></div>
+                <p id="small_text">WEB DESIGN</p>
+            </div>
+            </div>
+        </div>
+        <div id="grid_B">
+            <div class="gird_4">
+                <div id="grid_text">
+                    <p>Branding & Illustration Design
+                </p></div>
+                <p id="small_text">WEB DESIGN</p>
+            </div>
+            </div>
+            <div class="gird_5">
+                <div id="grid_text">
+                    <p>Branding & Illustration Design
+                </p></div>
+                <p id="small_text">WEB DESIGN</p>
+            </div>
+            </div>
+            <div class="gird_6">
+                <div id="grid_text">
+                    <p>Branding & Illustration Design
+                </p></div>
+                <p id="small_text">WEB DESIGN</p>
+            </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+</section>
+
+
+
+
+
+
+/*.grid_one{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: -26%;
+}
+
+#pic_one{
+    background-image: url('grid_one.png');
+    background-repeat: no-repeat;
+    margin-left: 20%;
+    height: 100vh;
+    width: 100vw;
+}
+
+#pic_two{
+    background-image: url('grid_two.png');
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100vw;
+    margin-right: 15%;
+}
+
+ #grid_text p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: black;
+    font-size: 28px;
+    height: 44.7vh;
+
+    
+}
+#small_text{
+    color: white;
+    margin-top: -30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+}
+
+.grid_two{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#pic_three{
+    background-image: url('grid_three.png');
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100vw;
+  margin-left: 20%;
+}
+  */
+  .grids{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  }
+  .grid_1{
+
+    background-image: url('grid_one.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <a href="https://www.facebook.com/profile.php?id=100026399550686&mibextid=ZbWKwL">+ FACEBOOK</a>
+  <a href="https://www.instagram.com/muhammad_bilal0003?igsh=MXZuM2Z4Z2I1ZGZ6ag==">+ INSTAGRAM</a>
+  
+  
+
+
+
+
+
+
+
+
+
+
+  height: 100vh;
+  min-height: 100%;
+  position: relative;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-attachment: fixed;
+  z-index: 0;
